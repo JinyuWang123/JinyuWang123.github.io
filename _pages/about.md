@@ -27,7 +27,7 @@ redirect_from:
 You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang_Resume.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jinyu_wang@brown.edu).
 
 
-# 📝 Publications & Preprint
+# 📝 Publications&Preprint
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
