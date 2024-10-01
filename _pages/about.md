@@ -44,9 +44,12 @@ You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang_
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💻 Experience
-- *2024.06 - Present* Brown University School of Public Health (Providence, RI, USA).
--- Jinyu
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Brown University School of Public Health (Providence, RI, USA).
+  ◦ *2024.06 - Present* Biostatistician, Full time
+  ◦ *2023.01 - 2024.05* Research Assistant.
+- Southern University of Science and Technology (Shenzhen, China).
+  ◦ *2021.06 - 2022.06* Research Assistant.
+  ◦ *2021.02 - 2021.06* Teaching Assistant for MA212: Probability Theory and Mathematical Statistics.
 
 # 📖 Educations
 - *2022.08 - 2024.05*, M.S. in Data Science, Brown University (Providence, RI, USA).
