@@ -46,12 +46,24 @@ K. Meng, **J. Wang**, L. Crawford, A. Eloyan
 
 [Clinical features of patients with MTAP-deleted bladder cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9906077/#:~:text=In%20conclusion%2C%20MTAP%20%2Ddel%20occurs,to%20progression%20to%20metastatic%20disease.)
 
-A. De Souza, A. Mega, J. Douglass, A. Olszewski, E. Gamsiz Uzun, A. Uzun, C. Chou, F. Duan, **J. Wang**, A. Ali, D. Golijanin, S. Holder, G. Lagos, H. Safran, W. El-Deiry, B. Carneiro.
+A. De Souza, A. Mega, J. Douglass, A. Olszewski, E. Gamsiz Uzun, A. Uzun, C. Chou, F. Duan, **J. Wang**, A. Ali, D. Golijanin, S. Holder, G. Lagos, H. Safran, W. El-Deiry, B. Carneiro
 
 - *American Journal of Cancer Research, 2023.*
 - Urothelial carcinoma, MTAP, chemotherapy, immunotherapy. 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/ajcr Small.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hypothesis testing for medical imaging analysis via the smooth Euler characteristic transform](https://arxiv.org/abs/2308.06645)
+
+**J. Wang**, K. Meng, F. Duan
+
+- Shape-valued data analysis, persistent homology, null hypothesis test, permutation test, medicine. [github](https://github.com/JinyuWang123/NHST-SECT)
+</div>
+</div>
+
 
 # 💻 Experience
 - Brown University School of Public Health (Providence, RI, USA). <br>
