@@ -21,7 +21,6 @@ redirect_from:
 - 😊 I am supervised by [Prof. Fenghai Duan](https://vivo.brown.edu/display/fduan) from the Department of Biostatistics and Center for Statistical Sciences at Brown University, and by [Prof. Kun Meng](https://sites.google.com/view/kun-meng) from the Division of Applied Mathematics at Brown University.
 - 🌱 I’m currently learning advanced biostatistical methods for clinical trial design and machine learning techniques for medical imaging.
 - 👯 I’m looking to collaborate on projects involving medical imaging analysis, survival analysis, or clinical trials.
-- 😄 Pronouns: He/Him
 - 🚀 **I'm actively seeking PhD positions in Biostatistics or Statistics for Fall 2025**.
 
 You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang_Resume.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jinyu_wang@brown.edu).
