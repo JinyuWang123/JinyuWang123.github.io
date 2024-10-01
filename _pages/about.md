@@ -22,7 +22,7 @@ redirect_from:
 - 🌱 I’m currently learning advanced biostatistical methods for clinical trial design and machine learning techniques for medical imaging.
 - 👯 I’m looking to collaborate on projects involving medical imaging analysis, survival analysis, or clinical trials.
 - 😄 Pronouns: He/Him
-- 🚀 I'm actively seeking PhD positions in Biostatistics or Statistics for Fall 2025.
+- 🚀 **I'm actively seeking PhD positions in Biostatistics or Statistics for Fall 2025**.
 
 You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang_Resume.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jinyu_wang@brown.edu).
 
@@ -72,6 +72,7 @@ A. De Souza, A. Mega, J. Douglass, A. Olszewski, E. Gamsiz Uzun, A. Uzun, C. Cho
 
 K. Meng, M. Ji, **J. Wang**, K. Ding, H. Kirveslahti, A. Eloyan, L. Crawford
 
+- Submitted to the *Journal of Applied and Computational Topology*.
 - Euler calculus; Karhunen–Lo`eve expansion; o-minimal structures; smooth Euler-Radon transform. [github](https://github.com/JinyuWang123/ERT)
 </div>
 </div>
