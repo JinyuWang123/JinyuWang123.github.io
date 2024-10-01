@@ -65,6 +65,17 @@ A. De Souza, A. Mega, J. Douglass, A. Olszewski, E. Gamsiz Uzun, A. Uzun, C. Cho
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/website3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Statistical Inference on Grayscale Images via the Euler-Radon Transform](https://arxiv.org/abs/2308.14249)
+
+K. Meng, M. Ji, **J. Wang**, K. Ding, H. Kirveslahti, A. Eloyan, L. Crawford
+
+- Euler calculus; Karhunen–Lo`eve expansion; o-minimal structures; smooth Euler-Radon transform. [github](https://github.com/JinyuWang123/ERT)
+</div>
+</div>
+
 # 💻 Experience
 - Brown University School of Public Health (Providence, RI, USA). <br>
   ◦ *2024.06 - Present* Biostatistician, Full time <br>
