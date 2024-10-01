@@ -41,7 +41,17 @@ K. Meng, **J. Wang**, L. Crawford, A. Eloyan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJCR 2023</div><img src='images/teeth_update Small.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Clinical features of patients with MTAP-deleted bladder cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9906077/#:~:text=In%20conclusion%2C%20MTAP%20%2Ddel%20occurs,to%20progression%20to%20metastatic%20disease.)
+
+A. De Souza, A. Mega, J. Douglass, A. Olszewski, E. Gamsiz Uzun, A. Uzun, C. Chou, F. Duan, **J. Wang**, A. Ali, D. Golijanin, S. Holder, G. Lagos, H. Safran, W. El-Deiry, B. Carneiro.
+
+- *American Journal of Cancer Research, 2023.*
+- Urothelial carcinoma, MTAP, chemotherapy, immunotherapy. 
+</div>
+</div>
 
 # 💻 Experience
 - Brown University School of Public Health (Providence, RI, USA). <br>
