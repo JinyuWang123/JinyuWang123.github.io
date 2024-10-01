@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
     
   - title: "Publications"
-    url: "/#-publicationspreprint"
+    url: "/#-publications-and-preprint"
     
   - title: "Experience"
     url: "/#-experience"
