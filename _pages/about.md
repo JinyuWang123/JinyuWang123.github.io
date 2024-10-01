@@ -29,7 +29,7 @@ You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang_
 
 # 📝 Publications and Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JASA 2024</div><img src='images/teeth_update Small.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JASA 2024</div><img src='images/converted_image (1).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Randomness of Shapes and Statistical Inference on Shapes via the Smooth Euler Characteristic Transform](https://doi.org/10.1080/01621459.2024.2353947)
@@ -41,7 +41,7 @@ K. Meng, **J. Wang**, L. Crawford, A. Eloyan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJCR 2023</div><img src='images/ajcr Small.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AJCR 2023</div><img src='images/converted_image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Clinical features of patients with MTAP-deleted bladder cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9906077/#:~:text=In%20conclusion%2C%20MTAP%20%2Ddel%20occurs,to%20progression%20to%20metastatic%20disease.)
@@ -53,7 +53,7 @@ A. De Souza, A. Mega, J. Douglass, A. Olszewski, E. Gamsiz Uzun, A. Uzun, C. Cho
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/website3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/prediction_results.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hypothesis testing for medical imaging analysis via the smooth Euler characteristic transform](https://arxiv.org/abs/2308.06645)
