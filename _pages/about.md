@@ -37,10 +37,11 @@ You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang_
 K. Meng, **J. Wang**, L. Crawford, A. Eloyan
 
 - *Journal of the American Statistical Association (Theory and Methods), 2024.*
+- Functional data analysis, Karhunen–Loève expansion, o-minimal structures, Persistence diagrams, Reproducing kernel Hilbert spaces. [github](https://github.com/JinyuWang123/TDA)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 💻 Experience
 - Brown University School of Public Health (Providence, RI, USA). <br>
