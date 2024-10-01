@@ -32,7 +32,7 @@ You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JASA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Randomness of Shapes and Statistical Inference on Shapes via the Smooth Euler Characteristic Transform] (https://doi.org/10.1080/01621459.2024.2353947)
+[Randomness of Shapes and Statistical Inference on Shapes via the Smooth Euler Characteristic Transform](https://doi.org/10.1080/01621459.2024.2353947)
 
 K. Meng, **J. Wang**, L. Crawford, A. Eloyan
 
