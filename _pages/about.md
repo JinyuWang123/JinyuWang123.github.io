@@ -48,6 +48,5 @@ You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang_
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022.08 - 2024.05*, M.S. in Data Science, Brown University (Providence, RI, USA).
+- *2018.09 - 2022.07*, B.S. in Statistics, Southern University of Science and Technology (Shenzhen, China).
