@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Welcome!
-- 🔭 I’m currently working as a Biostatistician at Brown University, focusing on the identifiability of time-dependent treatment effects and statistical inference on medical imaging data. Fortunately, I am supervised by Prof. Fenghai Duan from the Department of Biostatistics and Center for Statistical Sciences at Brown University, and by Prof. Kun Meng from the Division of Applied Mathematics at Brown University.
+- 🔭 I’m currently working as a Biostatistician at Brown University, focusing on the identifiability of time-dependent treatment effects and statistical inference on medical imaging data. Fortunately, I am supervised by [Prof. Fenghai Duan](https://vivo.brown.edu/display/fduan) from the Department of Biostatistics and Center for Statistical Sciences at Brown University, and by Prof. Kun Meng from the Division of Applied Mathematics at Brown University.
 - 🌱 I’m currently learning advanced biostatistical methods for clinical trial design and machine learning techniques for medical imaging.
 - 👯 I’m looking to collaborate on projects involving medical imaging analysis, survival analysis, or clinical trials.
 - 📫 How to reach me: jinyu_wang@brown.edu
