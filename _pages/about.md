@@ -71,7 +71,6 @@ A. De Souza, A. Mega, J. Douglass, A. Olszewski, E. Gamsiz Uzun, A. Uzun, C. Cho
 
 K. Meng, M. Ji, **J. Wang**, K. Ding, H. Kirveslahti, A. Eloyan, L. Crawford
 
-- Submitted to the *Journal of Applied and Computational Topology*.
 - Euler calculus; Karhunen–Lo`eve expansion; o-minimal structures; smooth Euler-Radon transform. [github](https://github.com/JinyuWang123/ERT)
 </div>
 </div>
