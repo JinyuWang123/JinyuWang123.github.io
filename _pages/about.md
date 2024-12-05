@@ -23,7 +23,7 @@ redirect_from:
 - 👯 I’m looking to collaborate on projects involving medical imaging analysis, survival analysis, or clinical trials.
 - 🚀 **I'm actively seeking PhD positions in Biostatistics or Statistics for Fall 2025**.
 
-You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang_Resume.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jinyu_wang@brown.edu).
+You can find my CV here: [Jinyu Wang’s Curriculum Vitae](../assets/Jinyu Wang-CV.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:jinyu_wang@brown.edu).
 
 
 # 📝 Publications and Preprint
